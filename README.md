@@ -18,45 +18,45 @@
 
 ## Languages and Tools:
 <div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  /></code>
-  <img width="50" />
-  <code><img src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original-wordmark.svg" height="50" alt="Android logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original-wordmark.svg" height="50" alt="react logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="50" alt="html5 logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo"  /></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></code>
+  <img width="30" />
+  <code><img src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original-wordmark.svg" height="30" alt="Android logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original-wordmark.svg" height="30" alt="react logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="30" alt="html5 logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo"  /></code>
  
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/google/google-original.svg" height="50" alt="Google  logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain-wordmark.svg" height="50" alt="docker logo"  /></code>
-  <img width="50" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  /></code>
-  <img width="50" />
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/google/google-original.svg" height="30" alt="Google  logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain-wordmark.svg" height="30" alt="docker logo"  /></code>
+  <img width="30" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="30" />
   <code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  /></code>
-  <img width="50" />
+  <img width="30" />
   
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="50" alt="postgresql logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" height="50" alt="raspberrypi logo"  /></code>
-  <img width="50" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="50" alt="redhat logo"  /></code>
-  <img width="50" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="30" alt="postgresql logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" height="30" alt="raspberrypi logo"  /></code>
+  <img width="30" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
+  <img width="30" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
   <!--   <img width="12" /> -->
   <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="50" alt="ubuntu logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="50" alt="react logo"  /></code>
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="50" alt="webpack logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="30" alt="ubuntu logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="30" alt="webpack logo"  /></code>
 
-  <img width="50" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-original-wordmark.svg" height="50" alt="webpack logo"  /></code>
+  <img width="30" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-original-wordmark.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
  
