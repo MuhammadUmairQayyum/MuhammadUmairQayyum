@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ar projects
 - 📫 Reach me at umairqayyum80@gmail.com
 
-![Snake animation](https://github.com/MuhammadUmairQayyum/MuhammadUmairQayyum/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 MuhammadUmairQayyum/MuhammadUmairQayyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
