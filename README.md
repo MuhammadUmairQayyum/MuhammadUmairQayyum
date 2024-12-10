@@ -11,6 +11,7 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
+
 - 5+ years of experience in Android Native Application Development
 - 2+ years of experience in Flutter & Swift UI
 - 1+ years of experience in mlkit and Automl
