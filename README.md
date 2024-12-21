@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Advance concepts in android application development
 - 💞️ I’m looking to collaborate on Ar projects
 - 📫 Reach me at umairqayyum80@gmail.com
-  
+  ---------
 
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
