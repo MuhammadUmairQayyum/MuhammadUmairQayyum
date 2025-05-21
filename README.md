@@ -20,7 +20,7 @@
 
 ## My stack:
 
-- 5+ years of experience in Android Native Application Development
+- 6+ years of experience in Android Native Application Development
 - 2+ years of experience in Flutter & Swift UI
 - 1+ years of experience in mlkit and Automl
 - 🏆 Chat bots (Whatsapp, Facebook Messenger)
