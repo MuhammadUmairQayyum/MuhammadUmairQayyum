@@ -22,6 +22,7 @@
 - 1+ years of experience in mlkit and Automl
 - 🏆 Chat bots (Whatsapp, Facebook Messenger)
 - ❤️ API, RESTful API, GraphQL
+- 
 
 
 
